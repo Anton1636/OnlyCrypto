@@ -1,0 +1,17 @@
+{
+	"0x8d63da0d65Dee7f63af5996110c32AcD7Fee2911": {
+		"address": "0x8d63da0d65Dee7f63af5996110c32AcD7Fee2911",
+		"name": "Test1",
+		"description": "description 1"
+	},
+	"0xabebAE7Bb0CD011a678D27F97D1F58F085a227b5": {
+		"address": "0xabebAE7Bb0CD011a678D27F97D1F58F085a227b5",
+		"name": "Test2",
+		"description": "description 2"
+	},
+	"0xAccB4B34380a5aEc6c80c01A068106a2E9161D91": {
+		"address": "0xAccB4B34380a5aEc6c80c01A068106a2E9161D91",
+		"name": "Test3",
+		"description": "description 3"
+	}
+}
