@@ -1,16 +1,16 @@
 {
-	"0x8d63da0d65Dee7f63af5996110c32AcD7Fee2911": {
-		"address": "0x8d63da0d65Dee7f63af5996110c32AcD7Fee2911",
+	"0x976EA74026E726554dB657fA54763abd0C3a0aa9": {
+		"address": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
 		"name": "Test1",
 		"description": "description 1"
 	},
-	"0xabebAE7Bb0CD011a678D27F97D1F58F085a227b5": {
-		"address": "0xabebAE7Bb0CD011a678D27F97D1F58F085a227b5",
+	"0x23618e81E3f5cdF7f54C3d65f7FBc0aBf5B21E8f": {
+		"address": "0x23618e81E3f5cdF7f54C3d65f7FBc0aBf5B21E8f",
 		"name": "Test2",
 		"description": "description 2"
 	},
-	"0xAccB4B34380a5aEc6c80c01A068106a2E9161D91": {
-		"address": "0xAccB4B34380a5aEc6c80c01A068106a2E9161D91",
+	"0xa0Ee7A142d267C1f36714E4a8F75612F20a79720": {
+		"address": "0xa0Ee7A142d267C1f36714E4a8F75612F20a79720",
 		"name": "Test3",
 		"description": "description 3"
 	}

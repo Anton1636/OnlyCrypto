@@ -6,6 +6,7 @@ const getCreators = () => {
 }
 
 export default async function Home() {
+	let creators = getCreators()
 	return (
 		<main className='container text-center'>
 			<div className='row'>
